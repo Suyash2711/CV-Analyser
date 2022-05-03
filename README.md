@@ -8,7 +8,7 @@ Usually companies hire employees based only on their achievements in their field
 But in the recent years, this has proven not to be enough. In order to hire the right employee for a company, the company should know about the persons behaviour and attitude.
 This project aims to help out the hiring community not only in the tech industry but in every field.
 
-**Techniques Used:**
+**Techniques Used :**
 FRONTEND - Tkinter,
 LOGISTIC REGRESSION,
 NATURAL LANGUAGE PROCESSING
