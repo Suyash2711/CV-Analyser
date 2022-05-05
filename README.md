@@ -1,7 +1,7 @@
 **# CV-Analyser Tool**
 This personality prediction system can be used in many business parts or areas that may require expert candidates. 
 Admin can easily shortlist a candidate based on their personality scores. This system will reduce the workload of the workers in general/hiring, training, and firing department. 
-This system will help to select the right candidate for the desired job profile, which in turn provide the expert for the organisation.
+This system will help to select the right candidate for the desired job profile, which in turn provide the expert for the organization.
 
 **Benefit to Society:**
 Usually companies hire employees based only on their achievements in their field along with their outstanding grades and resume.
